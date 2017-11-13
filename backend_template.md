@@ -2,7 +2,7 @@
 
 ## TODO
 
-## Checklist
+## Checklist (x = done, o = unnecessary)
 * [ ] adjusted changelog
 * [ ] added tests
 * [ ] revisited my own PR
