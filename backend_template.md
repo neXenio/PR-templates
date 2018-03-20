@@ -20,3 +20,4 @@
 
 ### Documentation
 * [] adjusted changelog
+* [] inform testers about changes
