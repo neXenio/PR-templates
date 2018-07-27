@@ -17,6 +17,7 @@
 ### Integration
 * [] checked API change
 * [] tested integration on *.space
+* [] added contract
 
 ### Documentation
 * [] adjusted changelog
