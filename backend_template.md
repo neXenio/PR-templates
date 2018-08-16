@@ -12,7 +12,7 @@
 
 ### Deployment
 * [] checked indices
-* [] checked migrations (**remember to backup the databse before merging master**)
+* [] checked migrations (**remember to backup the database before merging master**)
 
 ### Integration
 * [] checked API change
