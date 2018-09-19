@@ -4,7 +4,7 @@
 
 ## Checklist (x = done, o = unnecessary)
 ### Code
-* [] checked seeds
+* [] checked seed-data (repo)
 * [] checked config change
 * [] fixed SonarQube issues
 * [] added tests
