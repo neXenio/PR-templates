@@ -4,7 +4,7 @@
 
 ## Checklist (x = done, o = unnecessary)
 ### Code
-* [] checked seeds
+* [] checked seed-data (repo)
 * [] checked config change
 * [] fixed SonarQube issues
 * [] added tests
@@ -13,10 +13,11 @@
 ### Deployment
 * [] checked indices
 * [] checked migrations (**remember to backup the database before merging master**)
+* [] add migrations to seeds
 
 ### Integration
 * [] checked API change
-* [] tested integration on *.space
+* [] tested integration on \*.space
 * [] added contract
 
 ### Documentation
